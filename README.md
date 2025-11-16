@@ -1,5 +1,5 @@
 # AgriCore 
-### Machine Learning-Based Wheat Seed Classification
+# Machine Learning-Based Wheat Seed Classification
 AgriCore is a machine learning project designed to classify wheat seed varieties using multiple ML models. It includes data preprocessing, visualizations, model training, hyperparameter tuning, evaluation metrics, and ensemble learning for improved accuracy.
 ---
 # Features
